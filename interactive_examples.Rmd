@@ -55,6 +55,13 @@ iris_graph <- ggplot(data = iris, aes(x = Petal.Width,
 
 ```
 
+### Make an interactive table with DT
+
+```{r}
+
+datatable(msleep)
+
+```
 
 
 
